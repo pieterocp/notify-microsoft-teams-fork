@@ -1,3 +1,10 @@
+## Upcoming Release
+
+### Features
+
+* Upgrades to use node 24.
+
+
 ## [1.0.9](https://github.com/Skitionek/notify-microsoft-teams/compare/v1.0.8...v1.0.9) (2025-04-14)
 
 
